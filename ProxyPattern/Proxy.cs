@@ -5,18 +5,18 @@ using System.Text;
 
 namespace ProxyPattern
 {
-    class Proxy:Subject
+    public class Proxy : Subject
     {
-      private  RealSubject realSubject;
+        private RealSubject realSubject;
 
-      public override void Request()
-      {
-          if (realSubject==null)
-          {
-              realSubject = new RealSubject();
-          }
+        public override void Request()
+        {
+            if (realSubject == null)
+            {
+                realSubject = new RealSubject();
+            }
 
-          realSubject.Request();
-      }
+            realSubject.Request();
+        }
     }
 }

@@ -22,6 +22,9 @@ namespace ProxyPattern
     {
         static void Main(string[] args)
         {
+            Proxy proxy = new Proxy();
+            proxy.Request();
+            Console.Read();
         }
     }
 }
