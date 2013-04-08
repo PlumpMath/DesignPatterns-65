@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractFactoryPattern.AbstractFactory">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.FactoryA">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>FactoryA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.FactoryB">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>FactoryB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.AbstractProductA">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractProductA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.ProductA1">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductA1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.ProductB1">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductB1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.AbstractProductB">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractProductB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.ProductA2">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductA2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryPattern.ProductB2">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductB2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
